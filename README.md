@@ -30,23 +30,23 @@ To start this lab I jumped into research as I had no experience with Palo Alto p
 <h2>Walk-Through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+On boot use maint command to enter maintanence mode when prompted<br/>
 <img src="https://i.imgur.com/g8H867f.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Once in maintanence mode select factory reset and enter to confirm<br/>
 <img src="https://i.imgur.com/LCO9zVH.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Wait for factory reset to complete<br/>
 <img src="https://i.imgur.com/CxOLYm9.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Once the factory reset is complete with a successful status, reboot<br/>
 <img src="https://i.imgur.com/t8Ha1we.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Now it boots in the default environment <br/>
 <img src="https://i.imgur.com/3cat6dH.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
