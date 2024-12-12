@@ -23,8 +23,7 @@ To start this lab I jumped into research as I had no experience with Palo Alto p
 
 <h2>Network Diagram</h2>
 <p align="center">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="JG4RBcT"><a href="https://imgur.com/JG4RBcT">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-  <img src="[https://imgur.com/JG4RBcT](https://imgur.com/JG4RBcT)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/JG4RBcT.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -32,31 +31,31 @@ To start this lab I jumped into research as I had no experience with Palo Alto p
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 </p>
 
 <h2>Conclusion</h2>
